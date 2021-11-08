@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TP1</string>
+    <string name="textview">textview</string>
+    <string name="Button">Button</string>
+    <string name="Name">Name</string>
+
+
+</resources>
